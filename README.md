@@ -1,1 +1,1 @@
-# laizy-docs4scrape
+At Laizy, we believe that people can get more done while being lazier. That’s why we share as many AI hacks, tips, and tricks for business purposes and help small teams, founders, solopreneurs, and freelancers get st**f done a whole lot faster and easier.
